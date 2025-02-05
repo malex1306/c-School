@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FahrzeugVerwaltung/bin/Debug/net9.0/FahrzeugVerwaltung
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FahrzeugVerwaltung/bin/Debug/net9.0/FahrzeugVerwaltung.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FahrzeugVerwaltung/bin/Debug/net9.0/FahrzeugVerwaltung.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FahrzeugVerwaltung/bin/Debug/net9.0/FahrzeugVerwaltung.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FahrzeugVerwaltung/bin/Debug/net9.0/FahrzeugVerwaltung.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FahrzeugVerwaltung/obj/Debug/net9.0/FahrzeugVerwaltung.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FahrzeugVerwaltung/obj/Debug/net9.0/FahrzeugVerwaltung.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FahrzeugVerwaltung/obj/Debug/net9.0/FahrzeugVerwaltung.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FahrzeugVerwaltung/obj/Debug/net9.0/FahrzeugVerwaltung.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FahrzeugVerwaltung/obj/Debug/net9.0/FahrzeugVerwaltung.sourcelink.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FahrzeugVerwaltung/obj/Debug/net9.0/FahrzeugVerwaltung.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FahrzeugVerwaltung/obj/Debug/net9.0/refint/FahrzeugVerwaltung.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FahrzeugVerwaltung/obj/Debug/net9.0/FahrzeugVerwaltung.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FahrzeugVerwaltung/obj/Debug/net9.0/FahrzeugVerwaltung.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FahrzeugVerwaltung/obj/Debug/net9.0/ref/FahrzeugVerwaltung.dll
