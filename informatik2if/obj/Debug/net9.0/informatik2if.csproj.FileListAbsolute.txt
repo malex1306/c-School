@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/informatik2if/bin/Debug/net9.0/informatik2if
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/informatik2if/bin/Debug/net9.0/informatik2if.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/informatik2if/bin/Debug/net9.0/informatik2if.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/informatik2if/bin/Debug/net9.0/informatik2if.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/informatik2if/bin/Debug/net9.0/informatik2if.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/informatik2if/obj/Debug/net9.0/informatik2if.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/informatik2if/obj/Debug/net9.0/informatik2if.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/informatik2if/obj/Debug/net9.0/informatik2if.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/informatik2if/obj/Debug/net9.0/informatik2if.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/informatik2if/obj/Debug/net9.0/informatik2if.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/informatik2if/obj/Debug/net9.0/refint/informatik2if.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/informatik2if/obj/Debug/net9.0/informatik2if.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/informatik2if/obj/Debug/net9.0/informatik2if.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/informatik2if/obj/Debug/net9.0/ref/informatik2if.dll

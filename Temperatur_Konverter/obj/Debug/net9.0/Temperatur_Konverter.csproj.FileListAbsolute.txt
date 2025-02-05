@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Temperatur_Konverter/bin/Debug/net9.0/Temperatur_Konverter
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Temperatur_Konverter/bin/Debug/net9.0/Temperatur_Konverter.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Temperatur_Konverter/bin/Debug/net9.0/Temperatur_Konverter.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Temperatur_Konverter/bin/Debug/net9.0/Temperatur_Konverter.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Temperatur_Konverter/bin/Debug/net9.0/Temperatur_Konverter.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Temperatur_Konverter/obj/Debug/net9.0/Temperatur_Konverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Temperatur_Konverter/obj/Debug/net9.0/Temperatur_Konverter.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Temperatur_Konverter/obj/Debug/net9.0/Temperatur_Konverter.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Temperatur_Konverter/obj/Debug/net9.0/Temperatur_Konverter.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Temperatur_Konverter/obj/Debug/net9.0/Temperatur_Konverter.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Temperatur_Konverter/obj/Debug/net9.0/refint/Temperatur_Konverter.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Temperatur_Konverter/obj/Debug/net9.0/Temperatur_Konverter.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Temperatur_Konverter/obj/Debug/net9.0/Temperatur_Konverter.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Temperatur_Konverter/obj/Debug/net9.0/ref/Temperatur_Konverter.dll

@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Verzweigungen/bin/Debug/net9.0/Verzweigungen
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Verzweigungen/bin/Debug/net9.0/Verzweigungen.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Verzweigungen/bin/Debug/net9.0/Verzweigungen.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Verzweigungen/bin/Debug/net9.0/Verzweigungen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Verzweigungen/bin/Debug/net9.0/Verzweigungen.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Verzweigungen/obj/Debug/net9.0/Verzweigungen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Verzweigungen/obj/Debug/net9.0/Verzweigungen.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Verzweigungen/obj/Debug/net9.0/Verzweigungen.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Verzweigungen/obj/Debug/net9.0/Verzweigungen.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Verzweigungen/obj/Debug/net9.0/Verzweigungen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Verzweigungen/obj/Debug/net9.0/refint/Verzweigungen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Verzweigungen/obj/Debug/net9.0/Verzweigungen.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Verzweigungen/obj/Debug/net9.0/Verzweigungen.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Verzweigungen/obj/Debug/net9.0/ref/Verzweigungen.dll

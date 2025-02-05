@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/day3_1/bin/Debug/net9.0/day3_1
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/day3_1/bin/Debug/net9.0/day3_1.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/day3_1/bin/Debug/net9.0/day3_1.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/day3_1/bin/Debug/net9.0/day3_1.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/day3_1/bin/Debug/net9.0/day3_1.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/day3_1/obj/Debug/net9.0/day3_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/day3_1/obj/Debug/net9.0/day3_1.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/day3_1/obj/Debug/net9.0/day3_1.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/day3_1/obj/Debug/net9.0/day3_1.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/day3_1/obj/Debug/net9.0/day3_1.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/day3_1/obj/Debug/net9.0/refint/day3_1.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/day3_1/obj/Debug/net9.0/day3_1.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/day3_1/obj/Debug/net9.0/day3_1.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/day3_1/obj/Debug/net9.0/ref/day3_1.dll

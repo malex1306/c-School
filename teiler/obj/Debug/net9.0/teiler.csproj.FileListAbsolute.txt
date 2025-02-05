@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teiler/bin/Debug/net9.0/teiler
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teiler/bin/Debug/net9.0/teiler.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teiler/bin/Debug/net9.0/teiler.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teiler/bin/Debug/net9.0/teiler.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teiler/bin/Debug/net9.0/teiler.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teiler/obj/Debug/net9.0/teiler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teiler/obj/Debug/net9.0/teiler.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teiler/obj/Debug/net9.0/teiler.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teiler/obj/Debug/net9.0/teiler.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teiler/obj/Debug/net9.0/teiler.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teiler/obj/Debug/net9.0/refint/teiler.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teiler/obj/Debug/net9.0/teiler.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teiler/obj/Debug/net9.0/teiler.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teiler/obj/Debug/net9.0/ref/teiler.dll

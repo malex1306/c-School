@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schachbrett1/bin/Debug/net9.0/Schachbrett1
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schachbrett1/bin/Debug/net9.0/Schachbrett1.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schachbrett1/bin/Debug/net9.0/Schachbrett1.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schachbrett1/bin/Debug/net9.0/Schachbrett1.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schachbrett1/bin/Debug/net9.0/Schachbrett1.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schachbrett1/obj/Debug/net9.0/Schachbrett1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schachbrett1/obj/Debug/net9.0/Schachbrett1.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schachbrett1/obj/Debug/net9.0/Schachbrett1.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schachbrett1/obj/Debug/net9.0/Schachbrett1.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schachbrett1/obj/Debug/net9.0/Schachbrett1.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schachbrett1/obj/Debug/net9.0/refint/Schachbrett1.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schachbrett1/obj/Debug/net9.0/Schachbrett1.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schachbrett1/obj/Debug/net9.0/Schachbrett1.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schachbrett1/obj/Debug/net9.0/ref/Schachbrett1.dll

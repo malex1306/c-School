@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ToDoListe/bin/Debug/net9.0/ToDoListe
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ToDoListe/bin/Debug/net9.0/ToDoListe.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ToDoListe/bin/Debug/net9.0/ToDoListe.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ToDoListe/bin/Debug/net9.0/ToDoListe.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ToDoListe/bin/Debug/net9.0/ToDoListe.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ToDoListe/obj/Debug/net9.0/ToDoListe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ToDoListe/obj/Debug/net9.0/ToDoListe.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ToDoListe/obj/Debug/net9.0/ToDoListe.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ToDoListe/obj/Debug/net9.0/ToDoListe.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ToDoListe/obj/Debug/net9.0/ToDoListe.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ToDoListe/obj/Debug/net9.0/refint/ToDoListe.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ToDoListe/obj/Debug/net9.0/ToDoListe.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ToDoListe/obj/Debug/net9.0/ToDoListe.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ToDoListe/obj/Debug/net9.0/ref/ToDoListe.dll

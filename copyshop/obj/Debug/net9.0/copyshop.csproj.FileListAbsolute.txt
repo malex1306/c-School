@@ -1,0 +1,4 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/copyshop/obj/Debug/net9.0/copyshop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/copyshop/obj/Debug/net9.0/copyshop.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/copyshop/obj/Debug/net9.0/copyshop.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/copyshop/obj/Debug/net9.0/copyshop.csproj.CoreCompileInputs.cache

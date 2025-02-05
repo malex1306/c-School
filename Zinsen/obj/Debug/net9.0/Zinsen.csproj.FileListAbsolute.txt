@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zinsen/bin/Debug/net9.0/Zinsen
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zinsen/bin/Debug/net9.0/Zinsen.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zinsen/bin/Debug/net9.0/Zinsen.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zinsen/bin/Debug/net9.0/Zinsen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zinsen/bin/Debug/net9.0/Zinsen.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zinsen/obj/Debug/net9.0/Zinsen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zinsen/obj/Debug/net9.0/Zinsen.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zinsen/obj/Debug/net9.0/Zinsen.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zinsen/obj/Debug/net9.0/Zinsen.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zinsen/obj/Debug/net9.0/Zinsen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zinsen/obj/Debug/net9.0/refint/Zinsen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zinsen/obj/Debug/net9.0/Zinsen.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zinsen/obj/Debug/net9.0/Zinsen.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zinsen/obj/Debug/net9.0/ref/Zinsen.dll

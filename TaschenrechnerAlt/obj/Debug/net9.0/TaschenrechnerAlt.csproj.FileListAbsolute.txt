@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TaschenrechnerAlt/bin/Debug/net9.0/TaschenrechnerAlt
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TaschenrechnerAlt/bin/Debug/net9.0/TaschenrechnerAlt.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TaschenrechnerAlt/bin/Debug/net9.0/TaschenrechnerAlt.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TaschenrechnerAlt/bin/Debug/net9.0/TaschenrechnerAlt.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TaschenrechnerAlt/bin/Debug/net9.0/TaschenrechnerAlt.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TaschenrechnerAlt/obj/Debug/net9.0/TaschenrechnerAlt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TaschenrechnerAlt/obj/Debug/net9.0/TaschenrechnerAlt.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TaschenrechnerAlt/obj/Debug/net9.0/TaschenrechnerAlt.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TaschenrechnerAlt/obj/Debug/net9.0/TaschenrechnerAlt.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TaschenrechnerAlt/obj/Debug/net9.0/TaschenrechnerAlt.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TaschenrechnerAlt/obj/Debug/net9.0/refint/TaschenrechnerAlt.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TaschenrechnerAlt/obj/Debug/net9.0/TaschenrechnerAlt.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TaschenrechnerAlt/obj/Debug/net9.0/TaschenrechnerAlt.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TaschenrechnerAlt/obj/Debug/net9.0/ref/TaschenrechnerAlt.dll

@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/gibMirFuenf/bin/Debug/net9.0/gibMirFuenf
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/gibMirFuenf/bin/Debug/net9.0/gibMirFuenf.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/gibMirFuenf/bin/Debug/net9.0/gibMirFuenf.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/gibMirFuenf/bin/Debug/net9.0/gibMirFuenf.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/gibMirFuenf/bin/Debug/net9.0/gibMirFuenf.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/gibMirFuenf/obj/Debug/net9.0/gibMirFuenf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/gibMirFuenf/obj/Debug/net9.0/gibMirFuenf.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/gibMirFuenf/obj/Debug/net9.0/gibMirFuenf.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/gibMirFuenf/obj/Debug/net9.0/gibMirFuenf.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/gibMirFuenf/obj/Debug/net9.0/gibMirFuenf.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/gibMirFuenf/obj/Debug/net9.0/refint/gibMirFuenf.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/gibMirFuenf/obj/Debug/net9.0/gibMirFuenf.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/gibMirFuenf/obj/Debug/net9.0/gibMirFuenf.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/gibMirFuenf/obj/Debug/net9.0/ref/gibMirFuenf.dll

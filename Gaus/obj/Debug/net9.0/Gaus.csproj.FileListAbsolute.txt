@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Gaus/bin/Debug/net9.0/Gaus
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Gaus/bin/Debug/net9.0/Gaus.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Gaus/bin/Debug/net9.0/Gaus.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Gaus/bin/Debug/net9.0/Gaus.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Gaus/bin/Debug/net9.0/Gaus.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Gaus/obj/Debug/net9.0/Gaus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Gaus/obj/Debug/net9.0/Gaus.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Gaus/obj/Debug/net9.0/Gaus.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Gaus/obj/Debug/net9.0/Gaus.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Gaus/obj/Debug/net9.0/Gaus.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Gaus/obj/Debug/net9.0/refint/Gaus.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Gaus/obj/Debug/net9.0/Gaus.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Gaus/obj/Debug/net9.0/Gaus.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Gaus/obj/Debug/net9.0/ref/Gaus.dll

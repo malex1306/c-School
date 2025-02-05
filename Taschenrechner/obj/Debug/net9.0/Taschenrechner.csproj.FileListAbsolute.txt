@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Taschenrechner/bin/Debug/net9.0/Taschenrechner
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Taschenrechner/bin/Debug/net9.0/Taschenrechner.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Taschenrechner/bin/Debug/net9.0/Taschenrechner.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Taschenrechner/bin/Debug/net9.0/Taschenrechner.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Taschenrechner/bin/Debug/net9.0/Taschenrechner.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Taschenrechner/obj/Debug/net9.0/Taschenrechner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Taschenrechner/obj/Debug/net9.0/Taschenrechner.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Taschenrechner/obj/Debug/net9.0/Taschenrechner.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Taschenrechner/obj/Debug/net9.0/Taschenrechner.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Taschenrechner/obj/Debug/net9.0/Taschenrechner.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Taschenrechner/obj/Debug/net9.0/refint/Taschenrechner.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Taschenrechner/obj/Debug/net9.0/Taschenrechner.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Taschenrechner/obj/Debug/net9.0/Taschenrechner.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Taschenrechner/obj/Debug/net9.0/ref/Taschenrechner.dll

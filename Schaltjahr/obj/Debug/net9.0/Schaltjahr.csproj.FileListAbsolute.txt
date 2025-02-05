@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schaltjahr/bin/Debug/net9.0/Schaltjahr
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schaltjahr/bin/Debug/net9.0/Schaltjahr.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schaltjahr/bin/Debug/net9.0/Schaltjahr.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schaltjahr/bin/Debug/net9.0/Schaltjahr.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schaltjahr/bin/Debug/net9.0/Schaltjahr.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schaltjahr/obj/Debug/net9.0/Schaltjahr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schaltjahr/obj/Debug/net9.0/Schaltjahr.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schaltjahr/obj/Debug/net9.0/Schaltjahr.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schaltjahr/obj/Debug/net9.0/Schaltjahr.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schaltjahr/obj/Debug/net9.0/Schaltjahr.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schaltjahr/obj/Debug/net9.0/refint/Schaltjahr.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schaltjahr/obj/Debug/net9.0/Schaltjahr.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schaltjahr/obj/Debug/net9.0/Schaltjahr.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Schaltjahr/obj/Debug/net9.0/ref/Schaltjahr.dll

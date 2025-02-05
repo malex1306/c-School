@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Resttage/bin/Debug/net9.0/Resttage
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Resttage/bin/Debug/net9.0/Resttage.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Resttage/bin/Debug/net9.0/Resttage.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Resttage/bin/Debug/net9.0/Resttage.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Resttage/bin/Debug/net9.0/Resttage.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Resttage/obj/Debug/net9.0/Resttage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Resttage/obj/Debug/net9.0/Resttage.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Resttage/obj/Debug/net9.0/Resttage.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Resttage/obj/Debug/net9.0/Resttage.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Resttage/obj/Debug/net9.0/Resttage.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Resttage/obj/Debug/net9.0/refint/Resttage.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Resttage/obj/Debug/net9.0/Resttage.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Resttage/obj/Debug/net9.0/Resttage.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Resttage/obj/Debug/net9.0/ref/Resttage.dll

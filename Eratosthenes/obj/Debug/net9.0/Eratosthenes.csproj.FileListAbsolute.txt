@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Eratosthenes/bin/Debug/net9.0/Eratosthenes
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Eratosthenes/bin/Debug/net9.0/Eratosthenes.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Eratosthenes/bin/Debug/net9.0/Eratosthenes.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Eratosthenes/bin/Debug/net9.0/Eratosthenes.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Eratosthenes/bin/Debug/net9.0/Eratosthenes.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Eratosthenes/obj/Debug/net9.0/Eratosthenes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Eratosthenes/obj/Debug/net9.0/Eratosthenes.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Eratosthenes/obj/Debug/net9.0/Eratosthenes.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Eratosthenes/obj/Debug/net9.0/Eratosthenes.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Eratosthenes/obj/Debug/net9.0/Eratosthenes.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Eratosthenes/obj/Debug/net9.0/refint/Eratosthenes.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Eratosthenes/obj/Debug/net9.0/Eratosthenes.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Eratosthenes/obj/Debug/net9.0/Eratosthenes.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Eratosthenes/obj/Debug/net9.0/ref/Eratosthenes.dll

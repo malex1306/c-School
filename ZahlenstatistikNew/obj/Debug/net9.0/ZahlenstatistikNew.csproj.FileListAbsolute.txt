@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ZahlenstatistikNew/bin/Debug/net9.0/ZahlenstatistikNew
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ZahlenstatistikNew/bin/Debug/net9.0/ZahlenstatistikNew.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ZahlenstatistikNew/bin/Debug/net9.0/ZahlenstatistikNew.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ZahlenstatistikNew/bin/Debug/net9.0/ZahlenstatistikNew.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ZahlenstatistikNew/bin/Debug/net9.0/ZahlenstatistikNew.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ZahlenstatistikNew/obj/Debug/net9.0/ZahlenstatistikNew.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ZahlenstatistikNew/obj/Debug/net9.0/ZahlenstatistikNew.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ZahlenstatistikNew/obj/Debug/net9.0/ZahlenstatistikNew.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ZahlenstatistikNew/obj/Debug/net9.0/ZahlenstatistikNew.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ZahlenstatistikNew/obj/Debug/net9.0/ZahlenstatistikNew.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ZahlenstatistikNew/obj/Debug/net9.0/refint/ZahlenstatistikNew.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ZahlenstatistikNew/obj/Debug/net9.0/ZahlenstatistikNew.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ZahlenstatistikNew/obj/Debug/net9.0/ZahlenstatistikNew.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ZahlenstatistikNew/obj/Debug/net9.0/ref/ZahlenstatistikNew.dll

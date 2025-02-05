@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arraydimension/bin/Debug/net9.0/Arraydimension
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arraydimension/bin/Debug/net9.0/Arraydimension.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arraydimension/bin/Debug/net9.0/Arraydimension.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arraydimension/bin/Debug/net9.0/Arraydimension.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arraydimension/bin/Debug/net9.0/Arraydimension.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arraydimension/obj/Debug/net9.0/Arraydimension.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arraydimension/obj/Debug/net9.0/Arraydimension.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arraydimension/obj/Debug/net9.0/Arraydimension.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arraydimension/obj/Debug/net9.0/Arraydimension.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arraydimension/obj/Debug/net9.0/Arraydimension.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arraydimension/obj/Debug/net9.0/refint/Arraydimension.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arraydimension/obj/Debug/net9.0/Arraydimension.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arraydimension/obj/Debug/net9.0/Arraydimension.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arraydimension/obj/Debug/net9.0/ref/Arraydimension.dll

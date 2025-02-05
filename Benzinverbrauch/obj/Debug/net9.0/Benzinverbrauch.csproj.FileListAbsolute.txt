@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Benzinverbrauch/bin/Debug/net9.0/Benzinverbrauch
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Benzinverbrauch/bin/Debug/net9.0/Benzinverbrauch.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Benzinverbrauch/bin/Debug/net9.0/Benzinverbrauch.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Benzinverbrauch/bin/Debug/net9.0/Benzinverbrauch.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Benzinverbrauch/bin/Debug/net9.0/Benzinverbrauch.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Benzinverbrauch/obj/Debug/net9.0/Benzinverbrauch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Benzinverbrauch/obj/Debug/net9.0/Benzinverbrauch.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Benzinverbrauch/obj/Debug/net9.0/Benzinverbrauch.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Benzinverbrauch/obj/Debug/net9.0/Benzinverbrauch.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Benzinverbrauch/obj/Debug/net9.0/Benzinverbrauch.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Benzinverbrauch/obj/Debug/net9.0/refint/Benzinverbrauch.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Benzinverbrauch/obj/Debug/net9.0/Benzinverbrauch.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Benzinverbrauch/obj/Debug/net9.0/Benzinverbrauch.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Benzinverbrauch/obj/Debug/net9.0/ref/Benzinverbrauch.dll

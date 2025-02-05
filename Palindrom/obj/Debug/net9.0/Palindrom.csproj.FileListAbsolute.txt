@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Palindrom/bin/Debug/net9.0/Palindrom
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Palindrom/bin/Debug/net9.0/Palindrom.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Palindrom/bin/Debug/net9.0/Palindrom.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Palindrom/bin/Debug/net9.0/Palindrom.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Palindrom/bin/Debug/net9.0/Palindrom.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Palindrom/obj/Debug/net9.0/Palindrom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Palindrom/obj/Debug/net9.0/Palindrom.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Palindrom/obj/Debug/net9.0/Palindrom.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Palindrom/obj/Debug/net9.0/Palindrom.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Palindrom/obj/Debug/net9.0/Palindrom.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Palindrom/obj/Debug/net9.0/refint/Palindrom.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Palindrom/obj/Debug/net9.0/Palindrom.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Palindrom/obj/Debug/net9.0/Palindrom.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Palindrom/obj/Debug/net9.0/ref/Palindrom.dll

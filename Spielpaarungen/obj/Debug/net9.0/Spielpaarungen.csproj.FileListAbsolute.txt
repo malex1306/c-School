@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Spielpaarungen/bin/Debug/net9.0/Spielpaarungen
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Spielpaarungen/bin/Debug/net9.0/Spielpaarungen.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Spielpaarungen/bin/Debug/net9.0/Spielpaarungen.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Spielpaarungen/bin/Debug/net9.0/Spielpaarungen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Spielpaarungen/bin/Debug/net9.0/Spielpaarungen.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Spielpaarungen/obj/Debug/net9.0/Spielpaarungen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Spielpaarungen/obj/Debug/net9.0/Spielpaarungen.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Spielpaarungen/obj/Debug/net9.0/Spielpaarungen.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Spielpaarungen/obj/Debug/net9.0/Spielpaarungen.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Spielpaarungen/obj/Debug/net9.0/Spielpaarungen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Spielpaarungen/obj/Debug/net9.0/refint/Spielpaarungen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Spielpaarungen/obj/Debug/net9.0/Spielpaarungen.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Spielpaarungen/obj/Debug/net9.0/Spielpaarungen.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Spielpaarungen/obj/Debug/net9.0/ref/Spielpaarungen.dll

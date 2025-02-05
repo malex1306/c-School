@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Warenkorb/bin/Debug/net9.0/Warenkorb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Warenkorb/bin/Debug/net9.0/Warenkorb.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Warenkorb/bin/Debug/net9.0/Warenkorb.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Warenkorb/bin/Debug/net9.0/Warenkorb.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Warenkorb/bin/Debug/net9.0/Warenkorb.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Warenkorb/obj/Debug/net9.0/Warenkorb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Warenkorb/obj/Debug/net9.0/Warenkorb.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Warenkorb/obj/Debug/net9.0/Warenkorb.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Warenkorb/obj/Debug/net9.0/Warenkorb.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Warenkorb/obj/Debug/net9.0/Warenkorb.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Warenkorb/obj/Debug/net9.0/refint/Warenkorb.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Warenkorb/obj/Debug/net9.0/Warenkorb.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Warenkorb/obj/Debug/net9.0/Warenkorb.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Warenkorb/obj/Debug/net9.0/ref/Warenkorb.dll

@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/kredit/bin/Debug/net9.0/kredit
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/kredit/bin/Debug/net9.0/kredit.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/kredit/bin/Debug/net9.0/kredit.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/kredit/bin/Debug/net9.0/kredit.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/kredit/bin/Debug/net9.0/kredit.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/kredit/obj/Debug/net9.0/kredit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/kredit/obj/Debug/net9.0/kredit.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/kredit/obj/Debug/net9.0/kredit.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/kredit/obj/Debug/net9.0/kredit.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/kredit/obj/Debug/net9.0/kredit.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/kredit/obj/Debug/net9.0/refint/kredit.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/kredit/obj/Debug/net9.0/kredit.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/kredit/obj/Debug/net9.0/kredit.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/kredit/obj/Debug/net9.0/ref/kredit.dll

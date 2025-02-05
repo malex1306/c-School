@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quadratzahlen/bin/Debug/net9.0/Quadratzahlen
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quadratzahlen/bin/Debug/net9.0/Quadratzahlen.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quadratzahlen/bin/Debug/net9.0/Quadratzahlen.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quadratzahlen/bin/Debug/net9.0/Quadratzahlen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quadratzahlen/bin/Debug/net9.0/Quadratzahlen.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quadratzahlen/obj/Debug/net9.0/Quadratzahlen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quadratzahlen/obj/Debug/net9.0/Quadratzahlen.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quadratzahlen/obj/Debug/net9.0/Quadratzahlen.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quadratzahlen/obj/Debug/net9.0/Quadratzahlen.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quadratzahlen/obj/Debug/net9.0/Quadratzahlen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quadratzahlen/obj/Debug/net9.0/refint/Quadratzahlen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quadratzahlen/obj/Debug/net9.0/Quadratzahlen.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quadratzahlen/obj/Debug/net9.0/Quadratzahlen.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quadratzahlen/obj/Debug/net9.0/ref/Quadratzahlen.dll

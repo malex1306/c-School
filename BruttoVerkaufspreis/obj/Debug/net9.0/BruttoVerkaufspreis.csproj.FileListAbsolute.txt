@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BruttoVerkaufspreis/bin/Debug/net9.0/BruttoVerkaufspreis
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BruttoVerkaufspreis/bin/Debug/net9.0/BruttoVerkaufspreis.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BruttoVerkaufspreis/bin/Debug/net9.0/BruttoVerkaufspreis.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BruttoVerkaufspreis/bin/Debug/net9.0/BruttoVerkaufspreis.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BruttoVerkaufspreis/bin/Debug/net9.0/BruttoVerkaufspreis.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BruttoVerkaufspreis/obj/Debug/net9.0/BruttoVerkaufspreis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BruttoVerkaufspreis/obj/Debug/net9.0/BruttoVerkaufspreis.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BruttoVerkaufspreis/obj/Debug/net9.0/BruttoVerkaufspreis.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BruttoVerkaufspreis/obj/Debug/net9.0/BruttoVerkaufspreis.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BruttoVerkaufspreis/obj/Debug/net9.0/BruttoVerkaufspreis.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BruttoVerkaufspreis/obj/Debug/net9.0/refint/BruttoVerkaufspreis.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BruttoVerkaufspreis/obj/Debug/net9.0/BruttoVerkaufspreis.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BruttoVerkaufspreis/obj/Debug/net9.0/BruttoVerkaufspreis.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BruttoVerkaufspreis/obj/Debug/net9.0/ref/BruttoVerkaufspreis.dll

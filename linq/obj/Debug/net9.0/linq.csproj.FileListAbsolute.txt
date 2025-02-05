@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/linq/bin/Debug/net9.0/linq
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/linq/bin/Debug/net9.0/linq.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/linq/bin/Debug/net9.0/linq.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/linq/bin/Debug/net9.0/linq.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/linq/bin/Debug/net9.0/linq.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/linq/obj/Debug/net9.0/linq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/linq/obj/Debug/net9.0/linq.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/linq/obj/Debug/net9.0/linq.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/linq/obj/Debug/net9.0/linq.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/linq/obj/Debug/net9.0/linq.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/linq/obj/Debug/net9.0/refint/linq.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/linq/obj/Debug/net9.0/linq.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/linq/obj/Debug/net9.0/linq.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/linq/obj/Debug/net9.0/ref/linq.dll

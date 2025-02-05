@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teileZwei/bin/Debug/net9.0/teileZwei
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teileZwei/bin/Debug/net9.0/teileZwei.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teileZwei/bin/Debug/net9.0/teileZwei.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teileZwei/bin/Debug/net9.0/teileZwei.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teileZwei/bin/Debug/net9.0/teileZwei.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teileZwei/obj/Debug/net9.0/teileZwei.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teileZwei/obj/Debug/net9.0/teileZwei.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teileZwei/obj/Debug/net9.0/teileZwei.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teileZwei/obj/Debug/net9.0/teileZwei.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teileZwei/obj/Debug/net9.0/teileZwei.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teileZwei/obj/Debug/net9.0/refint/teileZwei.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teileZwei/obj/Debug/net9.0/teileZwei.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teileZwei/obj/Debug/net9.0/teileZwei.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/teileZwei/obj/Debug/net9.0/ref/teileZwei.dll

@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabatt/bin/Debug/net9.0/Rabatt
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabatt/bin/Debug/net9.0/Rabatt.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabatt/bin/Debug/net9.0/Rabatt.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabatt/bin/Debug/net9.0/Rabatt.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabatt/bin/Debug/net9.0/Rabatt.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabatt/obj/Debug/net9.0/Rabatt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabatt/obj/Debug/net9.0/Rabatt.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabatt/obj/Debug/net9.0/Rabatt.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabatt/obj/Debug/net9.0/Rabatt.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabatt/obj/Debug/net9.0/Rabatt.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabatt/obj/Debug/net9.0/refint/Rabatt.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabatt/obj/Debug/net9.0/Rabatt.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabatt/obj/Debug/net9.0/Rabatt.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabatt/obj/Debug/net9.0/ref/Rabatt.dll

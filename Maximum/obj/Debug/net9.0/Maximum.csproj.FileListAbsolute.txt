@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Maximum/bin/Debug/net9.0/Maximum
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Maximum/bin/Debug/net9.0/Maximum.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Maximum/bin/Debug/net9.0/Maximum.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Maximum/bin/Debug/net9.0/Maximum.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Maximum/bin/Debug/net9.0/Maximum.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Maximum/obj/Debug/net9.0/Maximum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Maximum/obj/Debug/net9.0/Maximum.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Maximum/obj/Debug/net9.0/Maximum.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Maximum/obj/Debug/net9.0/Maximum.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Maximum/obj/Debug/net9.0/Maximum.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Maximum/obj/Debug/net9.0/refint/Maximum.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Maximum/obj/Debug/net9.0/Maximum.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Maximum/obj/Debug/net9.0/Maximum.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Maximum/obj/Debug/net9.0/ref/Maximum.dll

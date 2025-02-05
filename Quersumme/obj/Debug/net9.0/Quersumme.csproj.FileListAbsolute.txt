@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quersumme/bin/Debug/net9.0/Quersumme
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quersumme/bin/Debug/net9.0/Quersumme.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quersumme/bin/Debug/net9.0/Quersumme.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quersumme/bin/Debug/net9.0/Quersumme.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quersumme/bin/Debug/net9.0/Quersumme.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quersumme/obj/Debug/net9.0/Quersumme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quersumme/obj/Debug/net9.0/Quersumme.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quersumme/obj/Debug/net9.0/Quersumme.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quersumme/obj/Debug/net9.0/Quersumme.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quersumme/obj/Debug/net9.0/Quersumme.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quersumme/obj/Debug/net9.0/refint/Quersumme.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quersumme/obj/Debug/net9.0/Quersumme.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quersumme/obj/Debug/net9.0/Quersumme.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Quersumme/obj/Debug/net9.0/ref/Quersumme.dll

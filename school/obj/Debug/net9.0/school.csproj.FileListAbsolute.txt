@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/school/bin/Debug/net9.0/school
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/school/bin/Debug/net9.0/school.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/school/bin/Debug/net9.0/school.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/school/bin/Debug/net9.0/school.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/school/bin/Debug/net9.0/school.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/school/obj/Debug/net9.0/school.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/school/obj/Debug/net9.0/school.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/school/obj/Debug/net9.0/school.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/school/obj/Debug/net9.0/school.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/school/obj/Debug/net9.0/school.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/school/obj/Debug/net9.0/refint/school.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/school/obj/Debug/net9.0/school.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/school/obj/Debug/net9.0/school.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/school/obj/Debug/net9.0/ref/school.dll

@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Delikatessenversand/bin/Debug/net9.0/Delikatessenversand
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Delikatessenversand/bin/Debug/net9.0/Delikatessenversand.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Delikatessenversand/bin/Debug/net9.0/Delikatessenversand.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Delikatessenversand/bin/Debug/net9.0/Delikatessenversand.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Delikatessenversand/bin/Debug/net9.0/Delikatessenversand.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Delikatessenversand/obj/Debug/net9.0/Delikatessenversand.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Delikatessenversand/obj/Debug/net9.0/Delikatessenversand.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Delikatessenversand/obj/Debug/net9.0/Delikatessenversand.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Delikatessenversand/obj/Debug/net9.0/Delikatessenversand.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Delikatessenversand/obj/Debug/net9.0/Delikatessenversand.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Delikatessenversand/obj/Debug/net9.0/refint/Delikatessenversand.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Delikatessenversand/obj/Debug/net9.0/Delikatessenversand.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Delikatessenversand/obj/Debug/net9.0/Delikatessenversand.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Delikatessenversand/obj/Debug/net9.0/ref/Delikatessenversand.dll

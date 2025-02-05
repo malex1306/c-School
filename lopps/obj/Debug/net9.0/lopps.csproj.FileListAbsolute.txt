@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/lopps/bin/Debug/net9.0/lopps
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/lopps/bin/Debug/net9.0/lopps.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/lopps/bin/Debug/net9.0/lopps.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/lopps/bin/Debug/net9.0/lopps.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/lopps/bin/Debug/net9.0/lopps.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/lopps/obj/Debug/net9.0/lopps.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/lopps/obj/Debug/net9.0/lopps.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/lopps/obj/Debug/net9.0/lopps.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/lopps/obj/Debug/net9.0/lopps.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/lopps/obj/Debug/net9.0/lopps.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/lopps/obj/Debug/net9.0/refint/lopps.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/lopps/obj/Debug/net9.0/lopps.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/lopps/obj/Debug/net9.0/lopps.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/lopps/obj/Debug/net9.0/ref/lopps.dll

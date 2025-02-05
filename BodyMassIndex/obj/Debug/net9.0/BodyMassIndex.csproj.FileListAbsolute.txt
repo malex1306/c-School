@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BodyMassIndex/bin/Debug/net9.0/BodyMassIndex
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BodyMassIndex/bin/Debug/net9.0/BodyMassIndex.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BodyMassIndex/bin/Debug/net9.0/BodyMassIndex.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BodyMassIndex/bin/Debug/net9.0/BodyMassIndex.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BodyMassIndex/bin/Debug/net9.0/BodyMassIndex.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BodyMassIndex/obj/Debug/net9.0/BodyMassIndex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BodyMassIndex/obj/Debug/net9.0/BodyMassIndex.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BodyMassIndex/obj/Debug/net9.0/BodyMassIndex.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BodyMassIndex/obj/Debug/net9.0/BodyMassIndex.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BodyMassIndex/obj/Debug/net9.0/BodyMassIndex.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BodyMassIndex/obj/Debug/net9.0/refint/BodyMassIndex.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BodyMassIndex/obj/Debug/net9.0/BodyMassIndex.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BodyMassIndex/obj/Debug/net9.0/BodyMassIndex.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BodyMassIndex/obj/Debug/net9.0/ref/BodyMassIndex.dll

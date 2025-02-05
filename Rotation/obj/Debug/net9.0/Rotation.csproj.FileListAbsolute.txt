@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rotation/bin/Debug/net9.0/Rotation
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rotation/bin/Debug/net9.0/Rotation.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rotation/bin/Debug/net9.0/Rotation.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rotation/bin/Debug/net9.0/Rotation.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rotation/bin/Debug/net9.0/Rotation.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rotation/obj/Debug/net9.0/Rotation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rotation/obj/Debug/net9.0/Rotation.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rotation/obj/Debug/net9.0/Rotation.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rotation/obj/Debug/net9.0/Rotation.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rotation/obj/Debug/net9.0/Rotation.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rotation/obj/Debug/net9.0/refint/Rotation.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rotation/obj/Debug/net9.0/Rotation.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rotation/obj/Debug/net9.0/Rotation.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rotation/obj/Debug/net9.0/ref/Rotation.dll

@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/einMalEins/bin/Debug/net9.0/einMalEins
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/einMalEins/bin/Debug/net9.0/einMalEins.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/einMalEins/bin/Debug/net9.0/einMalEins.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/einMalEins/bin/Debug/net9.0/einMalEins.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/einMalEins/bin/Debug/net9.0/einMalEins.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/einMalEins/obj/Debug/net9.0/einMalEins.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/einMalEins/obj/Debug/net9.0/einMalEins.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/einMalEins/obj/Debug/net9.0/einMalEins.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/einMalEins/obj/Debug/net9.0/einMalEins.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/einMalEins/obj/Debug/net9.0/einMalEins.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/einMalEins/obj/Debug/net9.0/refint/einMalEins.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/einMalEins/obj/Debug/net9.0/einMalEins.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/einMalEins/obj/Debug/net9.0/einMalEins.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/einMalEins/obj/Debug/net9.0/ref/einMalEins.dll

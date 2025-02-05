@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zahlenstatistik/bin/Debug/net9.0/Zahlenstatistik
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zahlenstatistik/bin/Debug/net9.0/Zahlenstatistik.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zahlenstatistik/bin/Debug/net9.0/Zahlenstatistik.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zahlenstatistik/bin/Debug/net9.0/Zahlenstatistik.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zahlenstatistik/bin/Debug/net9.0/Zahlenstatistik.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zahlenstatistik/obj/Debug/net9.0/Zahlenstatistik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zahlenstatistik/obj/Debug/net9.0/Zahlenstatistik.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zahlenstatistik/obj/Debug/net9.0/Zahlenstatistik.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zahlenstatistik/obj/Debug/net9.0/Zahlenstatistik.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zahlenstatistik/obj/Debug/net9.0/Zahlenstatistik.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zahlenstatistik/obj/Debug/net9.0/refint/Zahlenstatistik.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zahlenstatistik/obj/Debug/net9.0/Zahlenstatistik.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zahlenstatistik/obj/Debug/net9.0/Zahlenstatistik.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zahlenstatistik/obj/Debug/net9.0/ref/Zahlenstatistik.dll

@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Informatik 2/bin/Debug/net9.0/Informatik 2
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Informatik 2/bin/Debug/net9.0/Informatik 2.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Informatik 2/bin/Debug/net9.0/Informatik 2.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Informatik 2/bin/Debug/net9.0/Informatik 2.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Informatik 2/bin/Debug/net9.0/Informatik 2.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Informatik 2/obj/Debug/net9.0/Informatik 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Informatik 2/obj/Debug/net9.0/Informatik 2.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Informatik 2/obj/Debug/net9.0/Informatik 2.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Informatik 2/obj/Debug/net9.0/Informatik 2.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Informatik 2/obj/Debug/net9.0/Informatik 2.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Informatik 2/obj/Debug/net9.0/refint/Informatik 2.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Informatik 2/obj/Debug/net9.0/Informatik 2.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Informatik 2/obj/Debug/net9.0/Informatik 2.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Informatik 2/obj/Debug/net9.0/ref/Informatik 2.dll

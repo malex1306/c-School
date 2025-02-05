@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NamensListe/bin/Debug/net9.0/NamensListe
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NamensListe/bin/Debug/net9.0/NamensListe.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NamensListe/bin/Debug/net9.0/NamensListe.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NamensListe/bin/Debug/net9.0/NamensListe.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NamensListe/bin/Debug/net9.0/NamensListe.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NamensListe/obj/Debug/net9.0/NamensListe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NamensListe/obj/Debug/net9.0/NamensListe.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NamensListe/obj/Debug/net9.0/NamensListe.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NamensListe/obj/Debug/net9.0/NamensListe.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NamensListe/obj/Debug/net9.0/NamensListe.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NamensListe/obj/Debug/net9.0/refint/NamensListe.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NamensListe/obj/Debug/net9.0/NamensListe.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NamensListe/obj/Debug/net9.0/NamensListe.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NamensListe/obj/Debug/net9.0/ref/NamensListe.dll

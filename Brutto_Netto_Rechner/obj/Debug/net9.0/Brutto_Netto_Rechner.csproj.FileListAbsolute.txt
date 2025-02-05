@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Brutto_Netto_Rechner/bin/Debug/net9.0/Brutto_Netto_Rechner
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Brutto_Netto_Rechner/bin/Debug/net9.0/Brutto_Netto_Rechner.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Brutto_Netto_Rechner/bin/Debug/net9.0/Brutto_Netto_Rechner.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Brutto_Netto_Rechner/bin/Debug/net9.0/Brutto_Netto_Rechner.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Brutto_Netto_Rechner/bin/Debug/net9.0/Brutto_Netto_Rechner.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Brutto_Netto_Rechner/obj/Debug/net9.0/Brutto_Netto_Rechner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Brutto_Netto_Rechner/obj/Debug/net9.0/Brutto_Netto_Rechner.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Brutto_Netto_Rechner/obj/Debug/net9.0/Brutto_Netto_Rechner.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Brutto_Netto_Rechner/obj/Debug/net9.0/Brutto_Netto_Rechner.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Brutto_Netto_Rechner/obj/Debug/net9.0/Brutto_Netto_Rechner.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Brutto_Netto_Rechner/obj/Debug/net9.0/refint/Brutto_Netto_Rechner.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Brutto_Netto_Rechner/obj/Debug/net9.0/Brutto_Netto_Rechner.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Brutto_Netto_Rechner/obj/Debug/net9.0/Brutto_Netto_Rechner.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Brutto_Netto_Rechner/obj/Debug/net9.0/ref/Brutto_Netto_Rechner.dll

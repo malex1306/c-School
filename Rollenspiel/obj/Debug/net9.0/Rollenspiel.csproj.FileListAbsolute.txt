@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rollenspiel/bin/Debug/net9.0/Rollenspiel
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rollenspiel/bin/Debug/net9.0/Rollenspiel.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rollenspiel/bin/Debug/net9.0/Rollenspiel.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rollenspiel/bin/Debug/net9.0/Rollenspiel.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rollenspiel/bin/Debug/net9.0/Rollenspiel.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rollenspiel/obj/Debug/net9.0/Rollenspiel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rollenspiel/obj/Debug/net9.0/Rollenspiel.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rollenspiel/obj/Debug/net9.0/Rollenspiel.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rollenspiel/obj/Debug/net9.0/Rollenspiel.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rollenspiel/obj/Debug/net9.0/Rollenspiel.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rollenspiel/obj/Debug/net9.0/refint/Rollenspiel.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rollenspiel/obj/Debug/net9.0/Rollenspiel.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rollenspiel/obj/Debug/net9.0/Rollenspiel.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rollenspiel/obj/Debug/net9.0/ref/Rollenspiel.dll

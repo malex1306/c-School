@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Reifendruck/bin/Debug/net9.0/Reifendruck
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Reifendruck/bin/Debug/net9.0/Reifendruck.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Reifendruck/bin/Debug/net9.0/Reifendruck.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Reifendruck/bin/Debug/net9.0/Reifendruck.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Reifendruck/bin/Debug/net9.0/Reifendruck.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Reifendruck/obj/Debug/net9.0/Reifendruck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Reifendruck/obj/Debug/net9.0/Reifendruck.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Reifendruck/obj/Debug/net9.0/Reifendruck.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Reifendruck/obj/Debug/net9.0/Reifendruck.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Reifendruck/obj/Debug/net9.0/Reifendruck.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Reifendruck/obj/Debug/net9.0/refint/Reifendruck.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Reifendruck/obj/Debug/net9.0/Reifendruck.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Reifendruck/obj/Debug/net9.0/Reifendruck.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Reifendruck/obj/Debug/net9.0/ref/Reifendruck.dll

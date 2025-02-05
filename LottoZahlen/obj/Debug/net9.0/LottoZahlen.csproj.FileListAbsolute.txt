@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LottoZahlen/bin/Debug/net9.0/LottoZahlen
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LottoZahlen/bin/Debug/net9.0/LottoZahlen.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LottoZahlen/bin/Debug/net9.0/LottoZahlen.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LottoZahlen/bin/Debug/net9.0/LottoZahlen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LottoZahlen/bin/Debug/net9.0/LottoZahlen.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LottoZahlen/obj/Debug/net9.0/LottoZahlen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LottoZahlen/obj/Debug/net9.0/LottoZahlen.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LottoZahlen/obj/Debug/net9.0/LottoZahlen.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LottoZahlen/obj/Debug/net9.0/LottoZahlen.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LottoZahlen/obj/Debug/net9.0/LottoZahlen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LottoZahlen/obj/Debug/net9.0/refint/LottoZahlen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LottoZahlen/obj/Debug/net9.0/LottoZahlen.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LottoZahlen/obj/Debug/net9.0/LottoZahlen.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LottoZahlen/obj/Debug/net9.0/ref/LottoZahlen.dll

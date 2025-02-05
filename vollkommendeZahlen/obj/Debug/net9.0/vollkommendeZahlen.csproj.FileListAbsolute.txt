@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/vollkommendeZahlen/bin/Debug/net9.0/vollkommendeZahlen
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/vollkommendeZahlen/bin/Debug/net9.0/vollkommendeZahlen.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/vollkommendeZahlen/bin/Debug/net9.0/vollkommendeZahlen.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/vollkommendeZahlen/bin/Debug/net9.0/vollkommendeZahlen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/vollkommendeZahlen/bin/Debug/net9.0/vollkommendeZahlen.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/vollkommendeZahlen/obj/Debug/net9.0/vollkommendeZahlen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/vollkommendeZahlen/obj/Debug/net9.0/vollkommendeZahlen.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/vollkommendeZahlen/obj/Debug/net9.0/vollkommendeZahlen.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/vollkommendeZahlen/obj/Debug/net9.0/vollkommendeZahlen.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/vollkommendeZahlen/obj/Debug/net9.0/vollkommendeZahlen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/vollkommendeZahlen/obj/Debug/net9.0/refint/vollkommendeZahlen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/vollkommendeZahlen/obj/Debug/net9.0/vollkommendeZahlen.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/vollkommendeZahlen/obj/Debug/net9.0/vollkommendeZahlen.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/vollkommendeZahlen/obj/Debug/net9.0/ref/vollkommendeZahlen.dll

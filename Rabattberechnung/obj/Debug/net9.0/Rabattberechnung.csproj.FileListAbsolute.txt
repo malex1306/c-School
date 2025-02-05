@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabattberechnung/bin/Debug/net9.0/Rabattberechnung
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabattberechnung/bin/Debug/net9.0/Rabattberechnung.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabattberechnung/bin/Debug/net9.0/Rabattberechnung.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabattberechnung/bin/Debug/net9.0/Rabattberechnung.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabattberechnung/bin/Debug/net9.0/Rabattberechnung.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabattberechnung/obj/Debug/net9.0/Rabattberechnung.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabattberechnung/obj/Debug/net9.0/Rabattberechnung.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabattberechnung/obj/Debug/net9.0/Rabattberechnung.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabattberechnung/obj/Debug/net9.0/Rabattberechnung.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabattberechnung/obj/Debug/net9.0/Rabattberechnung.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabattberechnung/obj/Debug/net9.0/refint/Rabattberechnung.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabattberechnung/obj/Debug/net9.0/Rabattberechnung.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabattberechnung/obj/Debug/net9.0/Rabattberechnung.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Rabattberechnung/obj/Debug/net9.0/ref/Rabattberechnung.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Brutto_Netto_Rechner/1.0.0": {
+        "runtime": {
+          "Brutto_Netto_Rechner.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Brutto_Netto_Rechner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

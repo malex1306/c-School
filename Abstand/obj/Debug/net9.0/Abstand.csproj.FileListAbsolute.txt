@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Abstand/bin/Debug/net9.0/Abstand
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Abstand/bin/Debug/net9.0/Abstand.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Abstand/bin/Debug/net9.0/Abstand.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Abstand/bin/Debug/net9.0/Abstand.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Abstand/bin/Debug/net9.0/Abstand.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Abstand/obj/Debug/net9.0/Abstand.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Abstand/obj/Debug/net9.0/Abstand.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Abstand/obj/Debug/net9.0/Abstand.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Abstand/obj/Debug/net9.0/Abstand.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Abstand/obj/Debug/net9.0/Abstand.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Abstand/obj/Debug/net9.0/refint/Abstand.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Abstand/obj/Debug/net9.0/Abstand.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Abstand/obj/Debug/net9.0/Abstand.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Abstand/obj/Debug/net9.0/ref/Abstand.dll

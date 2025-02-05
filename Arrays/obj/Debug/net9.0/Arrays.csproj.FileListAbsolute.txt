@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arrays/bin/Debug/net9.0/Arrays
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arrays/bin/Debug/net9.0/Arrays.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arrays/bin/Debug/net9.0/Arrays.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arrays/bin/Debug/net9.0/Arrays.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arrays/bin/Debug/net9.0/Arrays.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arrays/obj/Debug/net9.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arrays/obj/Debug/net9.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arrays/obj/Debug/net9.0/Arrays.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arrays/obj/Debug/net9.0/refint/Arrays.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arrays/obj/Debug/net9.0/Arrays.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arrays/obj/Debug/net9.0/Arrays.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Arrays/obj/Debug/net9.0/ref/Arrays.dll

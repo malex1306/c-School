@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/primzahlen/bin/Debug/net9.0/primzahlen
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/primzahlen/bin/Debug/net9.0/primzahlen.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/primzahlen/bin/Debug/net9.0/primzahlen.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/primzahlen/bin/Debug/net9.0/primzahlen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/primzahlen/bin/Debug/net9.0/primzahlen.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/primzahlen/obj/Debug/net9.0/primzahlen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/primzahlen/obj/Debug/net9.0/primzahlen.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/primzahlen/obj/Debug/net9.0/primzahlen.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/primzahlen/obj/Debug/net9.0/primzahlen.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/primzahlen/obj/Debug/net9.0/primzahlen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/primzahlen/obj/Debug/net9.0/refint/primzahlen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/primzahlen/obj/Debug/net9.0/primzahlen.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/primzahlen/obj/Debug/net9.0/primzahlen.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/primzahlen/obj/Debug/net9.0/ref/primzahlen.dll

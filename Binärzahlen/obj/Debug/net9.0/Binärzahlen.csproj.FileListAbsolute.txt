@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Binärzahlen/bin/Debug/net9.0/Binärzahlen
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Binärzahlen/bin/Debug/net9.0/Binärzahlen.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Binärzahlen/bin/Debug/net9.0/Binärzahlen.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Binärzahlen/bin/Debug/net9.0/Binärzahlen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Binärzahlen/bin/Debug/net9.0/Binärzahlen.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Binärzahlen/obj/Debug/net9.0/Binärzahlen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Binärzahlen/obj/Debug/net9.0/Binärzahlen.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Binärzahlen/obj/Debug/net9.0/Binärzahlen.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Binärzahlen/obj/Debug/net9.0/Binärzahlen.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Binärzahlen/obj/Debug/net9.0/Binärzahlen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Binärzahlen/obj/Debug/net9.0/refint/Binärzahlen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Binärzahlen/obj/Debug/net9.0/Binärzahlen.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Binärzahlen/obj/Debug/net9.0/Binärzahlen.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Binärzahlen/obj/Debug/net9.0/ref/Binärzahlen.dll

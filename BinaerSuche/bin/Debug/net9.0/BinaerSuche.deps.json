@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BinaerSuche/1.0.0": {
+        "runtime": {
+          "BinaerSuche.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BinaerSuche/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

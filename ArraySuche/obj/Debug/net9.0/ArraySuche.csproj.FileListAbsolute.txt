@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArraySuche/bin/Debug/net9.0/ArraySuche
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArraySuche/bin/Debug/net9.0/ArraySuche.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArraySuche/bin/Debug/net9.0/ArraySuche.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArraySuche/bin/Debug/net9.0/ArraySuche.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArraySuche/bin/Debug/net9.0/ArraySuche.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArraySuche/obj/Debug/net9.0/ArraySuche.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArraySuche/obj/Debug/net9.0/ArraySuche.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArraySuche/obj/Debug/net9.0/ArraySuche.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArraySuche/obj/Debug/net9.0/ArraySuche.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArraySuche/obj/Debug/net9.0/ArraySuche.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArraySuche/obj/Debug/net9.0/refint/ArraySuche.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArraySuche/obj/Debug/net9.0/ArraySuche.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArraySuche/obj/Debug/net9.0/ArraySuche.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArraySuche/obj/Debug/net9.0/ref/ArraySuche.dll

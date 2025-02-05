@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NotenSystem/bin/Debug/net9.0/NotenSystem
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NotenSystem/bin/Debug/net9.0/NotenSystem.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NotenSystem/bin/Debug/net9.0/NotenSystem.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NotenSystem/bin/Debug/net9.0/NotenSystem.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NotenSystem/bin/Debug/net9.0/NotenSystem.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NotenSystem/obj/Debug/net9.0/NotenSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NotenSystem/obj/Debug/net9.0/NotenSystem.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NotenSystem/obj/Debug/net9.0/NotenSystem.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NotenSystem/obj/Debug/net9.0/NotenSystem.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NotenSystem/obj/Debug/net9.0/NotenSystem.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NotenSystem/obj/Debug/net9.0/refint/NotenSystem.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NotenSystem/obj/Debug/net9.0/NotenSystem.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NotenSystem/obj/Debug/net9.0/NotenSystem.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/NotenSystem/obj/Debug/net9.0/ref/NotenSystem.dll

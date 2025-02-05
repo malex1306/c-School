@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Dreieck/bin/Debug/net9.0/Dreieck
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Dreieck/bin/Debug/net9.0/Dreieck.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Dreieck/bin/Debug/net9.0/Dreieck.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Dreieck/bin/Debug/net9.0/Dreieck.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Dreieck/bin/Debug/net9.0/Dreieck.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Dreieck/obj/Debug/net9.0/Dreieck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Dreieck/obj/Debug/net9.0/Dreieck.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Dreieck/obj/Debug/net9.0/Dreieck.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Dreieck/obj/Debug/net9.0/Dreieck.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Dreieck/obj/Debug/net9.0/Dreieck.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Dreieck/obj/Debug/net9.0/refint/Dreieck.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Dreieck/obj/Debug/net9.0/Dreieck.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Dreieck/obj/Debug/net9.0/Dreieck.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Dreieck/obj/Debug/net9.0/ref/Dreieck.dll

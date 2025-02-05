@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BinaerSuche/bin/Debug/net9.0/BinaerSuche
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BinaerSuche/bin/Debug/net9.0/BinaerSuche.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BinaerSuche/bin/Debug/net9.0/BinaerSuche.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BinaerSuche/bin/Debug/net9.0/BinaerSuche.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BinaerSuche/bin/Debug/net9.0/BinaerSuche.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BinaerSuche/obj/Debug/net9.0/BinaerSuche.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BinaerSuche/obj/Debug/net9.0/BinaerSuche.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BinaerSuche/obj/Debug/net9.0/BinaerSuche.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BinaerSuche/obj/Debug/net9.0/BinaerSuche.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BinaerSuche/obj/Debug/net9.0/BinaerSuche.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BinaerSuche/obj/Debug/net9.0/refint/BinaerSuche.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BinaerSuche/obj/Debug/net9.0/BinaerSuche.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BinaerSuche/obj/Debug/net9.0/BinaerSuche.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/BinaerSuche/obj/Debug/net9.0/ref/BinaerSuche.dll

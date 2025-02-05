@@ -1,0 +1,14 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/PasswortGenerator/bin/Debug/net9.0/PasswortGenerator
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/PasswortGenerator/bin/Debug/net9.0/PasswortGenerator.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/PasswortGenerator/bin/Debug/net9.0/PasswortGenerator.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/PasswortGenerator/bin/Debug/net9.0/PasswortGenerator.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/PasswortGenerator/bin/Debug/net9.0/PasswortGenerator.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/PasswortGenerator/obj/Debug/net9.0/PasswortGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/PasswortGenerator/obj/Debug/net9.0/PasswortGenerator.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/PasswortGenerator/obj/Debug/net9.0/PasswortGenerator.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/PasswortGenerator/obj/Debug/net9.0/PasswortGenerator.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/PasswortGenerator/obj/Debug/net9.0/PasswortGenerator.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/PasswortGenerator/obj/Debug/net9.0/refint/PasswortGenerator.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/PasswortGenerator/obj/Debug/net9.0/PasswortGenerator.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/PasswortGenerator/obj/Debug/net9.0/PasswortGenerator.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/PasswortGenerator/obj/Debug/net9.0/ref/PasswortGenerator.dll
