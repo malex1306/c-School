@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArrayMerge/bin/Debug/net9.0/ArrayMerge
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArrayMerge/bin/Debug/net9.0/ArrayMerge.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArrayMerge/bin/Debug/net9.0/ArrayMerge.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArrayMerge/bin/Debug/net9.0/ArrayMerge.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArrayMerge/bin/Debug/net9.0/ArrayMerge.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArrayMerge/obj/Debug/net9.0/ArrayMerge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArrayMerge/obj/Debug/net9.0/ArrayMerge.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArrayMerge/obj/Debug/net9.0/ArrayMerge.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArrayMerge/obj/Debug/net9.0/ArrayMerge.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArrayMerge/obj/Debug/net9.0/ArrayMerge.sourcelink.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArrayMerge/obj/Debug/net9.0/ArrayMerge.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArrayMerge/obj/Debug/net9.0/refint/ArrayMerge.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArrayMerge/obj/Debug/net9.0/ArrayMerge.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArrayMerge/obj/Debug/net9.0/ArrayMerge.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArrayMerge/obj/Debug/net9.0/ref/ArrayMerge.dll

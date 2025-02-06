@@ -12,3 +12,4 @@
 /Users/marcelalexandre/RiderProjects/ConsoleApp3/ArraySuche/obj/Debug/net9.0/ArraySuche.pdb
 /Users/marcelalexandre/RiderProjects/ConsoleApp3/ArraySuche/obj/Debug/net9.0/ArraySuche.genruntimeconfig.cache
 /Users/marcelalexandre/RiderProjects/ConsoleApp3/ArraySuche/obj/Debug/net9.0/ref/ArraySuche.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArraySuche/obj/Debug/net9.0/ArraySuche.sourcelink.json

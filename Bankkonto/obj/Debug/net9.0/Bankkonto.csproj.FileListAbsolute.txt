@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Bankkonto/bin/Debug/net9.0/Bankkonto
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Bankkonto/bin/Debug/net9.0/Bankkonto.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Bankkonto/bin/Debug/net9.0/Bankkonto.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Bankkonto/bin/Debug/net9.0/Bankkonto.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Bankkonto/bin/Debug/net9.0/Bankkonto.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Bankkonto/obj/Debug/net9.0/Bankkonto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Bankkonto/obj/Debug/net9.0/Bankkonto.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Bankkonto/obj/Debug/net9.0/Bankkonto.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Bankkonto/obj/Debug/net9.0/Bankkonto.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Bankkonto/obj/Debug/net9.0/Bankkonto.sourcelink.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Bankkonto/obj/Debug/net9.0/Bankkonto.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Bankkonto/obj/Debug/net9.0/refint/Bankkonto.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Bankkonto/obj/Debug/net9.0/Bankkonto.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Bankkonto/obj/Debug/net9.0/Bankkonto.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Bankkonto/obj/Debug/net9.0/ref/Bankkonto.dll
