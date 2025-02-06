@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Array Explode/bin/Debug/net9.0/Array Explode
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Array Explode/bin/Debug/net9.0/Array Explode.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Array Explode/bin/Debug/net9.0/Array Explode.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Array Explode/bin/Debug/net9.0/Array Explode.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Array Explode/bin/Debug/net9.0/Array Explode.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Array Explode/obj/Debug/net9.0/Array Explode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Array Explode/obj/Debug/net9.0/Array Explode.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Array Explode/obj/Debug/net9.0/Array Explode.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Array Explode/obj/Debug/net9.0/Array Explode.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Array Explode/obj/Debug/net9.0/Array Explode.sourcelink.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Array Explode/obj/Debug/net9.0/Array Explode.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Array Explode/obj/Debug/net9.0/refint/Array Explode.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Array Explode/obj/Debug/net9.0/Array Explode.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Array Explode/obj/Debug/net9.0/Array Explode.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Array Explode/obj/Debug/net9.0/ref/Array Explode.dll

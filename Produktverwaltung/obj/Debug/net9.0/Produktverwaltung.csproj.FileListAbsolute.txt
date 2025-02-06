@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Produktverwaltung/bin/Debug/net9.0/Produktverwaltung
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Produktverwaltung/bin/Debug/net9.0/Produktverwaltung.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Produktverwaltung/bin/Debug/net9.0/Produktverwaltung.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Produktverwaltung/bin/Debug/net9.0/Produktverwaltung.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Produktverwaltung/bin/Debug/net9.0/Produktverwaltung.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Produktverwaltung/obj/Debug/net9.0/Produktverwaltung.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Produktverwaltung/obj/Debug/net9.0/Produktverwaltung.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Produktverwaltung/obj/Debug/net9.0/Produktverwaltung.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Produktverwaltung/obj/Debug/net9.0/Produktverwaltung.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Produktverwaltung/obj/Debug/net9.0/Produktverwaltung.sourcelink.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Produktverwaltung/obj/Debug/net9.0/Produktverwaltung.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Produktverwaltung/obj/Debug/net9.0/refint/Produktverwaltung.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Produktverwaltung/obj/Debug/net9.0/Produktverwaltung.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Produktverwaltung/obj/Debug/net9.0/Produktverwaltung.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Produktverwaltung/obj/Debug/net9.0/ref/Produktverwaltung.dll
