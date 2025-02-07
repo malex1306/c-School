@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FuntionsWahnsinn/bin/Debug/net9.0/FuntionsWahnsinn
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FuntionsWahnsinn/bin/Debug/net9.0/FuntionsWahnsinn.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FuntionsWahnsinn/bin/Debug/net9.0/FuntionsWahnsinn.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FuntionsWahnsinn/bin/Debug/net9.0/FuntionsWahnsinn.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FuntionsWahnsinn/bin/Debug/net9.0/FuntionsWahnsinn.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FuntionsWahnsinn/obj/Debug/net9.0/FuntionsWahnsinn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FuntionsWahnsinn/obj/Debug/net9.0/FuntionsWahnsinn.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FuntionsWahnsinn/obj/Debug/net9.0/FuntionsWahnsinn.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FuntionsWahnsinn/obj/Debug/net9.0/FuntionsWahnsinn.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FuntionsWahnsinn/obj/Debug/net9.0/FuntionsWahnsinn.sourcelink.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FuntionsWahnsinn/obj/Debug/net9.0/FuntionsWahnsinn.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FuntionsWahnsinn/obj/Debug/net9.0/refint/FuntionsWahnsinn.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FuntionsWahnsinn/obj/Debug/net9.0/FuntionsWahnsinn.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FuntionsWahnsinn/obj/Debug/net9.0/FuntionsWahnsinn.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FuntionsWahnsinn/obj/Debug/net9.0/ref/FuntionsWahnsinn.dll

@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/IntergerUmdrehen/bin/Debug/net9.0/IntergerUmdrehen
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/IntergerUmdrehen/bin/Debug/net9.0/IntergerUmdrehen.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/IntergerUmdrehen/bin/Debug/net9.0/IntergerUmdrehen.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/IntergerUmdrehen/bin/Debug/net9.0/IntergerUmdrehen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/IntergerUmdrehen/bin/Debug/net9.0/IntergerUmdrehen.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/IntergerUmdrehen/obj/Debug/net9.0/IntergerUmdrehen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/IntergerUmdrehen/obj/Debug/net9.0/IntergerUmdrehen.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/IntergerUmdrehen/obj/Debug/net9.0/IntergerUmdrehen.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/IntergerUmdrehen/obj/Debug/net9.0/IntergerUmdrehen.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/IntergerUmdrehen/obj/Debug/net9.0/IntergerUmdrehen.sourcelink.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/IntergerUmdrehen/obj/Debug/net9.0/IntergerUmdrehen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/IntergerUmdrehen/obj/Debug/net9.0/refint/IntergerUmdrehen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/IntergerUmdrehen/obj/Debug/net9.0/IntergerUmdrehen.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/IntergerUmdrehen/obj/Debug/net9.0/IntergerUmdrehen.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/IntergerUmdrehen/obj/Debug/net9.0/ref/IntergerUmdrehen.dll
