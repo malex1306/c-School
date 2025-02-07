@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LuhnAlgorithmus/bin/Debug/net9.0/LuhnAlgorithmus
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LuhnAlgorithmus/bin/Debug/net9.0/LuhnAlgorithmus.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LuhnAlgorithmus/bin/Debug/net9.0/LuhnAlgorithmus.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LuhnAlgorithmus/bin/Debug/net9.0/LuhnAlgorithmus.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LuhnAlgorithmus/bin/Debug/net9.0/LuhnAlgorithmus.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LuhnAlgorithmus/obj/Debug/net9.0/LuhnAlgorithmus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LuhnAlgorithmus/obj/Debug/net9.0/LuhnAlgorithmus.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LuhnAlgorithmus/obj/Debug/net9.0/LuhnAlgorithmus.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LuhnAlgorithmus/obj/Debug/net9.0/LuhnAlgorithmus.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LuhnAlgorithmus/obj/Debug/net9.0/LuhnAlgorithmus.sourcelink.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LuhnAlgorithmus/obj/Debug/net9.0/LuhnAlgorithmus.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LuhnAlgorithmus/obj/Debug/net9.0/refint/LuhnAlgorithmus.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LuhnAlgorithmus/obj/Debug/net9.0/LuhnAlgorithmus.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LuhnAlgorithmus/obj/Debug/net9.0/LuhnAlgorithmus.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/LuhnAlgorithmus/obj/Debug/net9.0/ref/LuhnAlgorithmus.dll

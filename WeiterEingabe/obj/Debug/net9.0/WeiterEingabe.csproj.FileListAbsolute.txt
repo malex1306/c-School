@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/WeiterEingabe/bin/Debug/net9.0/WeiterEingabe
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/WeiterEingabe/bin/Debug/net9.0/WeiterEingabe.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/WeiterEingabe/bin/Debug/net9.0/WeiterEingabe.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/WeiterEingabe/bin/Debug/net9.0/WeiterEingabe.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/WeiterEingabe/bin/Debug/net9.0/WeiterEingabe.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/WeiterEingabe/obj/Debug/net9.0/WeiterEingabe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/WeiterEingabe/obj/Debug/net9.0/WeiterEingabe.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/WeiterEingabe/obj/Debug/net9.0/WeiterEingabe.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/WeiterEingabe/obj/Debug/net9.0/WeiterEingabe.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/WeiterEingabe/obj/Debug/net9.0/WeiterEingabe.sourcelink.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/WeiterEingabe/obj/Debug/net9.0/WeiterEingabe.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/WeiterEingabe/obj/Debug/net9.0/refint/WeiterEingabe.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/WeiterEingabe/obj/Debug/net9.0/WeiterEingabe.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/WeiterEingabe/obj/Debug/net9.0/WeiterEingabe.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/WeiterEingabe/obj/Debug/net9.0/ref/WeiterEingabe.dll

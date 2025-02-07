@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TryParse/bin/Debug/net9.0/TryParse
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TryParse/bin/Debug/net9.0/TryParse.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TryParse/bin/Debug/net9.0/TryParse.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TryParse/bin/Debug/net9.0/TryParse.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TryParse/bin/Debug/net9.0/TryParse.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TryParse/obj/Debug/net9.0/TryParse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TryParse/obj/Debug/net9.0/TryParse.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TryParse/obj/Debug/net9.0/TryParse.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TryParse/obj/Debug/net9.0/TryParse.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TryParse/obj/Debug/net9.0/TryParse.sourcelink.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TryParse/obj/Debug/net9.0/TryParse.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TryParse/obj/Debug/net9.0/refint/TryParse.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TryParse/obj/Debug/net9.0/TryParse.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TryParse/obj/Debug/net9.0/TryParse.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/TryParse/obj/Debug/net9.0/ref/TryParse.dll
