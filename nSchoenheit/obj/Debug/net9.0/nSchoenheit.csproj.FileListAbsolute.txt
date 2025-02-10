@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/nSchoenheit/bin/Debug/net9.0/nSchoenheit
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/nSchoenheit/bin/Debug/net9.0/nSchoenheit.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/nSchoenheit/bin/Debug/net9.0/nSchoenheit.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/nSchoenheit/bin/Debug/net9.0/nSchoenheit.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/nSchoenheit/bin/Debug/net9.0/nSchoenheit.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/nSchoenheit/obj/Debug/net9.0/nSchoenheit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/nSchoenheit/obj/Debug/net9.0/nSchoenheit.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/nSchoenheit/obj/Debug/net9.0/nSchoenheit.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/nSchoenheit/obj/Debug/net9.0/nSchoenheit.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/nSchoenheit/obj/Debug/net9.0/nSchoenheit.sourcelink.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/nSchoenheit/obj/Debug/net9.0/nSchoenheit.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/nSchoenheit/obj/Debug/net9.0/refint/nSchoenheit.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/nSchoenheit/obj/Debug/net9.0/nSchoenheit.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/nSchoenheit/obj/Debug/net9.0/nSchoenheit.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/nSchoenheit/obj/Debug/net9.0/ref/nSchoenheit.dll

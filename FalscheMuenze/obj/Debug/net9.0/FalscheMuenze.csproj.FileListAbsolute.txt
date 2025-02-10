@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FalscheMuenze/bin/Debug/net9.0/FalscheMuenze
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FalscheMuenze/bin/Debug/net9.0/FalscheMuenze.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FalscheMuenze/bin/Debug/net9.0/FalscheMuenze.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FalscheMuenze/bin/Debug/net9.0/FalscheMuenze.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FalscheMuenze/bin/Debug/net9.0/FalscheMuenze.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FalscheMuenze/obj/Debug/net9.0/FalscheMuenze.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FalscheMuenze/obj/Debug/net9.0/FalscheMuenze.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FalscheMuenze/obj/Debug/net9.0/FalscheMuenze.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FalscheMuenze/obj/Debug/net9.0/FalscheMuenze.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FalscheMuenze/obj/Debug/net9.0/FalscheMuenze.sourcelink.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FalscheMuenze/obj/Debug/net9.0/FalscheMuenze.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FalscheMuenze/obj/Debug/net9.0/refint/FalscheMuenze.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FalscheMuenze/obj/Debug/net9.0/FalscheMuenze.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FalscheMuenze/obj/Debug/net9.0/FalscheMuenze.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/FalscheMuenze/obj/Debug/net9.0/ref/FalscheMuenze.dll

@@ -2,7 +2,7 @@
 {
     class CodeCracker
     {
-        static string secretCode = "1P3!5#78LB1"; // 🔒 Geheimer Code
+        static string secretCode = "1P3!5#"; //  Geheimer Code
         static string characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~ "; // Erweiterte Zeichen
         static volatile bool found = false; // Beendet Parallel-Threads, wenn Code gefunden wurde
         static string crackedCode = null; // Speichert den gefundenen Code
@@ -17,7 +17,7 @@
             // Schritt 2: Parallel Brute-Force
             BruteForceCrack(possibleChars);
 
-            Console.WriteLine($"✅ Geheimer Code geknackt: {crackedCode ?? "Code konnte nicht geknackt werden"}");
+            Console.WriteLine($" Geheimer Code geknackt: {crackedCode ?? "Code konnte nicht geknackt werden"}");
         }
 
         // Prüft, wie viele Stellen in einer Eingabe mit dem Geheimcode übereinstimmen
@@ -37,7 +37,7 @@
         // Schritt 1: Bestimmen, welche Zeichen im Code vorkommen
         static char[] FindCharacters()
         {
-            Console.WriteLine("🔍 Ermittlung der enthaltenen Zeichen...");
+            Console.WriteLine(" Ermittlung der enthaltenen Zeichen...");
             List<char> foundChars = new List<char>();
 
             foreach (char c in characters)
@@ -48,7 +48,7 @@
                 if (matches > 0)
                 {
                     foundChars.Add(c);
-                    Console.WriteLine($"✅ Zeichen '{c}' ist enthalten ({matches}x)");
+                    Console.WriteLine($" Zeichen '{c}' ist enthalten ({matches}x)");
                 }
             }
 
