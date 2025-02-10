@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArmstrongZahlen/bin/Debug/net9.0/ArmstrongZahlen
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArmstrongZahlen/bin/Debug/net9.0/ArmstrongZahlen.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArmstrongZahlen/bin/Debug/net9.0/ArmstrongZahlen.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArmstrongZahlen/bin/Debug/net9.0/ArmstrongZahlen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArmstrongZahlen/bin/Debug/net9.0/ArmstrongZahlen.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArmstrongZahlen/obj/Debug/net9.0/ArmstrongZahlen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArmstrongZahlen/obj/Debug/net9.0/ArmstrongZahlen.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArmstrongZahlen/obj/Debug/net9.0/ArmstrongZahlen.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArmstrongZahlen/obj/Debug/net9.0/ArmstrongZahlen.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArmstrongZahlen/obj/Debug/net9.0/ArmstrongZahlen.sourcelink.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArmstrongZahlen/obj/Debug/net9.0/ArmstrongZahlen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArmstrongZahlen/obj/Debug/net9.0/refint/ArmstrongZahlen.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArmstrongZahlen/obj/Debug/net9.0/ArmstrongZahlen.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArmstrongZahlen/obj/Debug/net9.0/ArmstrongZahlen.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/ArmstrongZahlen/obj/Debug/net9.0/ref/ArmstrongZahlen.dll

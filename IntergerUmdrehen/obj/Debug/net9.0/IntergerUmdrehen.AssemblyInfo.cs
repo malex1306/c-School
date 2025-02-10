@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntergerUmdrehen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8144ed743abaa035a5ba5cec1e461cdc4cc712ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a44f3ee26f905655a9a00cb3fbef8a7b8be6206e")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntergerUmdrehen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntergerUmdrehen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

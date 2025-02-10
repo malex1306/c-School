@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReifendruckErw")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae034faa903e20c3bbe0699a29e0d62e9b3fd836")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a44f3ee26f905655a9a00cb3fbef8a7b8be6206e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReifendruckErw")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReifendruckErw")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

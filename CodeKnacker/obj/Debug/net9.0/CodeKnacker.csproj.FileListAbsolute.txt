@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/CodeKnacker/bin/Debug/net9.0/CodeKnacker
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/CodeKnacker/bin/Debug/net9.0/CodeKnacker.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/CodeKnacker/bin/Debug/net9.0/CodeKnacker.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/CodeKnacker/bin/Debug/net9.0/CodeKnacker.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/CodeKnacker/bin/Debug/net9.0/CodeKnacker.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/CodeKnacker/obj/Debug/net9.0/CodeKnacker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/CodeKnacker/obj/Debug/net9.0/CodeKnacker.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/CodeKnacker/obj/Debug/net9.0/CodeKnacker.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/CodeKnacker/obj/Debug/net9.0/CodeKnacker.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/CodeKnacker/obj/Debug/net9.0/CodeKnacker.sourcelink.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/CodeKnacker/obj/Debug/net9.0/CodeKnacker.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/CodeKnacker/obj/Debug/net9.0/refint/CodeKnacker.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/CodeKnacker/obj/Debug/net9.0/CodeKnacker.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/CodeKnacker/obj/Debug/net9.0/CodeKnacker.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/CodeKnacker/obj/Debug/net9.0/ref/CodeKnacker.dll
