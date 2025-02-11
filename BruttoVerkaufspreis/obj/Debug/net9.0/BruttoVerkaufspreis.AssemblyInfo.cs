@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BruttoVerkaufspreis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a44f3ee26f905655a9a00cb3fbef8a7b8be6206e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a54a46682728433ace294ca82dfd45579e885e57")]
 [assembly: System.Reflection.AssemblyProductAttribute("BruttoVerkaufspreis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BruttoVerkaufspreis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

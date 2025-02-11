@@ -1,0 +1,15 @@
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zauberquadrat/bin/Debug/net9.0/Zauberquadrat
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zauberquadrat/bin/Debug/net9.0/Zauberquadrat.deps.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zauberquadrat/bin/Debug/net9.0/Zauberquadrat.runtimeconfig.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zauberquadrat/bin/Debug/net9.0/Zauberquadrat.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zauberquadrat/bin/Debug/net9.0/Zauberquadrat.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zauberquadrat/obj/Debug/net9.0/Zauberquadrat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zauberquadrat/obj/Debug/net9.0/Zauberquadrat.AssemblyInfoInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zauberquadrat/obj/Debug/net9.0/Zauberquadrat.AssemblyInfo.cs
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zauberquadrat/obj/Debug/net9.0/Zauberquadrat.csproj.CoreCompileInputs.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zauberquadrat/obj/Debug/net9.0/Zauberquadrat.sourcelink.json
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zauberquadrat/obj/Debug/net9.0/Zauberquadrat.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zauberquadrat/obj/Debug/net9.0/refint/Zauberquadrat.dll
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zauberquadrat/obj/Debug/net9.0/Zauberquadrat.pdb
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zauberquadrat/obj/Debug/net9.0/Zauberquadrat.genruntimeconfig.cache
+/Users/marcelalexandre/RiderProjects/ConsoleApp3/Zauberquadrat/obj/Debug/net9.0/ref/Zauberquadrat.dll

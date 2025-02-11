@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace nSchoenheit
+﻿namespace nSchoenheit
 {
     class Program
     {
